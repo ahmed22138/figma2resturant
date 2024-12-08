@@ -35,7 +35,7 @@ export default function Header(){
          
             </li>
             <li className='max-lg:border-b max-lg:py-3 px-3'>
-              <Link href='http://localhost:3000'
+              <Link href='/'
                 className='hover:text-[#007bff] text-white block font-semibold text-[15px]'>Home</Link>
             </li>
             <li className='max-lg:border-b max-lg:py-3 px-3'><a href='/'
